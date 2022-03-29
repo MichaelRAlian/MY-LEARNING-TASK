@@ -11,7 +11,7 @@
                 <h1>OVER POPULATION IN THE PHILIPPINES</h1>
                 <div id="navigation">
                     <ul>
-                        <li><a href="index.php">HOME</a></li>
+                        <li><a href="index.html">HOME</a></li>
                         <li><a href="causes.html">THE CAUSES</a></li>
                         <li><a href="images.html">THE IMAGES</a></li>
                         <li><a href="about.html">OVER POPULATION</a></li> 
